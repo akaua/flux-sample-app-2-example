@@ -1,1 +1,1 @@
-# flux-sample-app-2-example
+# flux-sample-app-example
