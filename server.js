@@ -3,7 +3,7 @@ var app = express();
 
 app.get('/', function (req, res) {
 
-    res.send('Hello World! Flux Sample app ECR/Lambda CD Flow - test 4!');
+    res.send('Hello World! Flux Sample app ECR/Lambda CD Flow - test 5!');
 
 });
 
